@@ -33,6 +33,13 @@ body {
     animation: moving-flower-1 4s linear infinite; 
 }
 
+.musica{
+  position: absolute;
+  top:10%;
+  right:43%;
+}
+
+
 
 .night {
   position: fixed;
