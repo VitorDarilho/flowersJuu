@@ -1,4 +1,5 @@
-um pRojEto explorAndo aLgumas funções do css.
+Um projeto explorando algumas funções do css.
+Real.
 https://flowersju.netlify.app
 
 ![image](https://github.com/VitorDarilho/flowersJuu/assets/117047872/19559ad0-d85b-4249-bf33-cba578d6953f)
